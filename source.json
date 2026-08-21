@@ -1,0 +1,19 @@
+{
+    "name":"KOZ39",
+    "id":"io.github.koz39.vpm-listing",
+    "url":"https://koz39.github.io/vpm-listing/index.json",
+    "author":{
+        "email":"koz39c@gmail.com",
+        "name":"KOZ39",
+        "url":"https://github.com/KOZ39"
+    },
+    "description":"Listing of VRChat packages",
+    "infoLink":{
+        "url":"https://github.com/KOZ39/vpm-listing",
+        "text":"View on GitHub"
+    },
+    "bannerUrl":"banner.png",
+    "githubRepos":[
+        "KOZ39/Knee-Fixer"
+    ]
+}
