@@ -14,8 +14,8 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "KOZ39/Icon-Generator",
         "KOZ39/Elbow-Fixer",
+        "KOZ39/Icon-Generator",
         "KOZ39/Knee-Fixer"
     ]
 }
